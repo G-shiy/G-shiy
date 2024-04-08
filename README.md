@@ -5,14 +5,26 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-shiy&layout=compact&langs_count=7&theme=dark&border_radius=15"/>
 </div>
 <div style="display: inline_block"><br>
+ <h2> Linguagens : </h2>
   <img align="center" alt="shiy-node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="shiy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="shiy-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+ <h2>Bibliotecas:</h2>
+##
   <img align="center" alt="shiy-numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-plain.svg">
   <img align="center" alt="shiy-pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-plain.svg">
   <img align="center" alt="shiy-Flask" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg">
   <img align="center" alt="shiy-django" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="shiy-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+##
+ <h2>Sistemas Operacionais:</h2>
+  <img align="center" alt="shiy-postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="shiy-postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-original.svg">
+##
+ <h2>Banco de dados:</h2>
+
+  
   <img align="center" alt="shiy-postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="shiy-django" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
   <img align="right" alt="shiy-calamidade" src="https://i.imgur.com/HbCXisJ.gif"  height="140em" width="140em">
 </div>
   
