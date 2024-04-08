@@ -10,16 +10,16 @@
   <img align="center" alt="shiy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="shiy-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
  <h2>Bibliotecas:</h2>
-##
+
   <img align="center" alt="shiy-numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-plain.svg">
   <img align="center" alt="shiy-pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-plain.svg">
   <img align="center" alt="shiy-Flask" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg">
   <img align="center" alt="shiy-django" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-##
+
  <h2>Sistemas Operacionais:</h2>
   <img align="center" alt="shiy-postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="shiy-postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-original.svg">
-##
+
  <h2>Banco de dados:</h2>
 
   
