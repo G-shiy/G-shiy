@@ -5,7 +5,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-shiy&layout=compact&langs_count=7&theme=dark&border_radius=15"/>
 </div>
 <div style="display: inline_block"><br>
- <h2> Linguagens : </h2>
+ <h2> Linguagens: </h2>
   <img align="center" alt="shiy-node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="shiy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="shiy-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
@@ -34,8 +34,8 @@
   <img align="center" alt="shiy-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="center" alt="shiy-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="shiy-aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="right" alt="shiy-calamidade" src="https://i.imgur.com/HbCXisJ.gif"  height="140em" width="140em">
 </div>
+  <img align="right" alt="shiy-calamidade" src="https://i.imgur.com/HbCXisJ.gif"  height="140em" width="140em">
 
   
   ##
