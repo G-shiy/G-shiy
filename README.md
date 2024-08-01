@@ -9,12 +9,15 @@
   <img align="center" alt="shiy-node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="shiy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="shiy-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+ 
+ <!-- 
  <h2>Bibliotecas:</h2>
 
   <img align="center" alt="shiy-numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-plain.svg">
   <img align="center" alt="shiy-pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-plain.svg">
   <img align="center" alt="shiy-Flask" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg">
-  <img align="center" alt="shiy-django" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="shiy-django" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"> 
+  -->
 
  <h2>Sistemas Operacionais:</h2>
   <img align="center" alt="shiy-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
@@ -22,11 +25,18 @@
 
  <h2>Banco de dados:</h2>
 
-  
   <img align="center" alt="shiy-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="shiy-mongodb" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
   <img align="right" alt="shiy-calamidade" src="https://i.imgur.com/HbCXisJ.gif"  height="140em" width="140em">
+
+<h2>Ferramentas e Tecnologias:</h2>
+
+  <img align="center" alt="shiy-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="shiy-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img align="center" alt="shiy-aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="right" alt="shiy-calamidade" src="https://i.imgur.com/HbCXisJ.gif"  height="140em" width="140em">
 </div>
+
   
   ##
   
