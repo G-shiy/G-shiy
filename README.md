@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">hey there, welcome to my space! 👋</h1>
+<h1 align="center">Hey there, welcome to my space! 👋</h1>
 
 ###
 
