@@ -9,8 +9,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=ffff&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  <a href="siqgustavo2@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -31,6 +32,19 @@
 
 <p align="left">I’m Gustavo, 20 years old, a Go developer from São Paulo, Brazil.<br><br>• 🔭 I’m currently working in the financial sector, where I apply my technical skills to automate the reconciliation process for payments, credit cards, and banking transactions.<br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>• 📚 I’m exploring advanced techniques in Go and frameworks like Gin, while also diving into cloud computing and microservices architecture.<br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>• ⚡ In my free time, I enjoy solving coding challenges, exploring open-source projects, and expanding my knowledge in software scalability and performance optimization.<br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>• 🌱 Passionate about continuous learning, I’m always looking for new ways to enhance my skills.</p>
 
+###
+
+<h2 align="left">🔥   My Stats :</h2>
+
+###
+
+<div align="center">
+<div>
+  <a href="https://github.com/G-shiy">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=G-shiy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=15"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-shiy&layout=compact&langs_count=7&theme=dracula&border_radius=15"/>
+</div>
+</div>
 
 ###
 
@@ -60,21 +74,8 @@
   <img src="https://skillicons.dev/icons?i=linux" height="36" alt="linux logo"  />
 </div>
 
-###
 
-###
 
-<h2 align="left">🔥   My Stats :</h2>
-
-###
-
-<div align="center">
-<div>
-  <a href="https://github.com/G-shiy">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=G-shiy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=15"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-shiy&layout=compact&langs_count=7&theme=dracula&border_radius=15"/>
-</div>
-</div>
 
 
 
