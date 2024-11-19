@@ -1,53 +1,77 @@
-## Um pouco sobre mim: 
- <div>
-  <a href="https://github.com/G-shiy">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=G-shiy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=15"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-shiy&layout=compact&langs_count=7&theme=dark&border_radius=15"/>
+<div align="center">
+  <img height="170" src="https://readme-workflows.github.io/Readme-Icons/assets/images/previews/gifs.gif"  />
 </div>
-<div style="display: inline_block"><br>
- <h2> Linguagens: </h2>
-  <img align="center" alt="shiy-node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="shiy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="shiy-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="shiy-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
- 
- <!-- 
- <h2>Bibliotecas:</h2>
 
-  <img align="center" alt="shiy-numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-plain.svg">
-  <img align="center" alt="shiy-pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-plain.svg">
-  <img align="center" alt="shiy-Flask" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg">
-  <img align="center" alt="shiy-django" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"> 
-  -->
+###
 
- <h2>Sistemas Operacionais:</h2>
-  <img align="center" alt="shiy-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="shiy-windows11" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg">
-
- <h2>Banco de dados:</h2>
-
-  <img align="center" alt="shiy-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="shiy-mongodb" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-  
-<h2>Ferramentas e Tecnologias:</h2>
-
-  <img align="center" alt="shiy-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="shiy-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  <img align="center" alt="shiy-aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+<div align="center">
+  <a href="https://www.linkedin.com/in/siqgustavo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=ffff&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
 </div>
-  <img align="right" alt="shiy-calamidade" src="https://i.imgur.com/HbCXisJ.gif"  height="140em" width="140em">
 
-  
-  ##
-  
-<div> 
-   <!-- <a href="https://instagram.com/G-shiy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
- <!--<a href="https://twitter.com/shiydaqui" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>-->
- 	<!--<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>-->
- <!--<a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
-  <!-- <a href = "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
-  <a href="https://www.linkedin.com/in/gustavo-siqueira-a8877521b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/G-shiy/G-shiy/blob/output/github-contribution-grid-snake.svg)
- 
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=G-shiy.G-shiy&"  />
 </div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h2 align="left">👩‍💻  About Me</h2>
+
+###
+
+<p align="left">I’m Gustavo, 20 years old, a Go developer from São Paulo, Brazil.<br><br>• 🔭 I’m currently working in the financial sector, where I apply my technical skills to automate the reconciliation process for payments, credit cards, and banking transactions.<br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>• 📚 I’m exploring advanced techniques in Go and frameworks like Gin, while also diving into cloud computing and microservices architecture.<br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>• ⚡ In my free time, I enjoy solving coding challenges, exploring open-source projects, and expanding my knowledge in software scalability and performance optimization.<br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>• 🌱 Passionate about continuous learning, I’m always looking for new ways to enhance my skills.</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=G-shiy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=G-shiy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">🛠 Language and tools</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/G-shiy/G-shiy/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=go" height="36" alt="go logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=flask" height="36" alt="flask logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="postgresql logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="mongodb logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=redis" height="36" alt="redis logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=docker" height="36" alt="docker logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=linux" height="36" alt="linux logo"  />
+</div>
+
+###
+
+<h2 align="left">🔥   My Stats :</h2>
+
+###
