@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ccfff&height=120&section=header"/>
 <div align="center">
-  <img height="170" src="https://camo.githubusercontent.com/b2b60f2e17873753866338cfe81b08a6ec191c26cf2cac04685d11ed4b5cc77b/68747470733a2f2f726561646d652d776f726b666c6f77732e6769746875622e696f2f526561646d652d49636f6e732f6173736574732f696d616765732f70726576696577732f676966732e676966"  />
-</div>
+ <!-- <img height="170" src="https://camo.githubusercontent.com/b2b60f2e17873753866338cfe81b08a6ec191c26cf2cac04685d11ed4b5cc77b/68747470733a2f2f726561646d652d776f726b666c6f77732e6769746875622e696f2f526561646d652d49636f6e732f6173736574732f696d616765732f70726576696577732f676966732e676966"  />
+</div> --> 
 
 ###
 
@@ -24,7 +24,7 @@
 </div>
 
 ###
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey+there,+welcome+to+my+space!+👋+:%29)](https://git.io/typing-svg) 
 <h1 align="center">Hey there, welcome to my space! 👋</h1>
 
 ###
