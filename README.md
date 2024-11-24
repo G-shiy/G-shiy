@@ -71,8 +71,8 @@
 <div align="center">
 <div>
   <a href="https://github.com/G-shiy">
-  <img height="150em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=G-shiy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=15"/>
-  <img height="150em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=G-shiy&layout=compact&langs_count=7&theme=dracula&border_radius=15"/>
+  <img height="150em" src="https://github-readme-stats-one.vercel.app/api?username=G-shiy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=15"/>
+  <img height="150em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=G-shiy&layout=compact&langs_count=7&theme=dracula&border_radius=15"/>
 </div>
 </div>
 
