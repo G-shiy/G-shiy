@@ -5,6 +5,17 @@
 
 ###
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey+there,+welcome+to+my+space!+👋+:%29)](https://git.io/typing-svg) 
+
+###
+
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=G-shiy.G-shiy&"  />
+</div>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/siqgustavo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=ffff&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -19,12 +30,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=G-shiy.G-shiy&"  />
-</div>
-
-###
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey+there,+welcome+to+my+space!+👋+:%29)](https://git.io/typing-svg) 
 
 ###
 
@@ -76,7 +81,7 @@
   <a href="https://github.com/G-shiy">
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=G-shiy&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-shiy&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G shiy&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 </div>
 </div>
@@ -91,3 +96,5 @@
 </div>
 
 ###
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ccfff&height=120&section=footer"/>
