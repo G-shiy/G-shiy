@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left">🛠 Language and tools</h2>
+<h2 align="left">🛠 Techs</h2>
 
 ###
 
