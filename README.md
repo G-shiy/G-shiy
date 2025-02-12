@@ -48,6 +48,10 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=go" height="36" alt="go logo"  />
   <img width="14" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
   <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=flask" height="36" alt="flask logo"  />
