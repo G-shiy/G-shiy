@@ -46,9 +46,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="java logo"  />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="36" alt="spring logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"  />
   <img width="14" />
