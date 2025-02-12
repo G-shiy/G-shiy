@@ -46,11 +46,8 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=go" height="36" alt="go logo"  />
-  <img width="14" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
+  <img width="14" />
   <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
   <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"  />
   <img width="14" />
@@ -60,13 +57,9 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="mongodb logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=redis" height="36" alt="redis logo"  />
-  <img width="14" />
   <img src="https://skillicons.dev/icons?i=docker" height="36" alt="docker logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=linux" height="36" alt="linux logo"  />
 </div>
