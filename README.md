@@ -34,9 +34,14 @@
 
 ###
 
-<p align="left">I’m Gustavo, 20 years old, a Go developer from São Paulo, Brazil.<br><br>• 🔭 I’m currently working in the financial sector, where I apply my technical skills to automate the reconciliation process for payments, credit cards, and banking transactions.<br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>• ⚡ In my free time, I enjoy solving coding challenges, exploring open-source projects, and expanding my knowledge in software scalability, data structures and performance optimization.<br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>• 🌱 Passionate about continuous learning, I’m always looking for new ways to enhance my skills.</p>
-
 ###
+
+<p align="left">I’m Gustavo, 20 years old, a Java developer from São José dos Campos, Brazil.</p>
+<h2></h2>
+<p>• 🔭 I’m currently working in the financial sector, where I apply my technical skills to automate the reconciliation process for payments, credit cards, and banking transactions. </p>
+<p>• ⚡ In my free time, I enjoy solving coding challenges, exploring open-source projects, and expanding my knowledge in software scalability, data structures and performance optimization.</p>
+<p>• 🌱 Passionate about continuous learning, I’m always looking for new ways to enhance my skills.</p>
+
 
 <h2 align="left">🛠 Techs</h2>
 
