@@ -2,7 +2,12 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey+there,+welcome+to+my+space!+👋+:%29)](https://git.io/typing-svg) 
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey+there,+welcome+to+my+space!+👋+:%29)](https://git.io/typing-svg) 
+!-->
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Crafting+code+with+curiosity+and+caffeine+☕🐹)](https://git.io/typing-svg)
 
 ###
 
@@ -17,7 +22,7 @@
   <a href="https://www.linkedin.com/in/siqgustavo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=ffff&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/unstable_shiy" target="_blank">
+  <a href="https://x.com/_instableshiy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="mailto:siqgustavo2@hotmail.com" target="_blank">
@@ -36,11 +41,18 @@
 
 ###
 
-<p align="left">I’m Gustavo, 20 years old, a Java developer from São José dos Campos, Brazil.</p>
-<h2></h2>
-<p>• 🔭 I’m currently working in the financial sector, where I apply my technical skills to automate the reconciliation process for payments, credit cards, and banking transactions. </p>
-<p>• ⚡ In my free time, I enjoy solving coding challenges, exploring open-source projects, and expanding my knowledge in software scalability, data structures and performance optimization.</p>
-<p>• 🌱 Passionate about continuous learning, I’m always looking for new ways to enhance my skills.</p>
+
+<p align="left">Hi, I'm Gustavo — a 20-year-old Java developer from São José dos Campos, Brazil.</p>
+
+<p>• 🔭 Currently working in the financial sector, where I develop solutions to automate payment reconciliations, credit card processing, and banking transaction workflows.</p>
+
+<p>• ⚡ In my free time, I enjoy solving coding challenges, testing developer tools, and diving deep into topics like software scalability, data structures, and performance optimization.</p>
+
+<p>• 🌱 Passionate about continuous learning, I'm constantly exploring new technologies to sharpen my backend skills and applying that knowledge to personal projects.</p>
+
+<h3 align="left">📬 Reach Me</h3>
+
+<p align="left">I'm always open to conversations about backend development, tech stacks, and new opportunities.</p>
 
 
 <h2 align="left">🛠 Techs</h2>
