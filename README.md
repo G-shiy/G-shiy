@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/siqgustavo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=ffff&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/gustavo_shiy" target="_blank">
+  <a href="https://x.com/unstable_shiy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="mailto:siqgustavo2@hotmail.com" target="_blank">
@@ -48,22 +48,24 @@
 ###
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=go" height="36" alt="go logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="java logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/spring/6DB33F" height="36" alt="spring logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="36" alt="flask logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="postgresql logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="mongodb logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="36" alt="docker logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="36" alt="linux logo"  />
 </div>
 
