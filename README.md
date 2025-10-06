@@ -68,8 +68,8 @@
   <img width="12" />
   <!--<img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="36" alt="flask logo"  /> !-->
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="36" alt="flask logo"  />
+  <img width="12" /> !-->
   <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="mongodb logo"  />
