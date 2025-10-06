@@ -66,9 +66,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/spring/6DB33F" height="36" alt="spring logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"  />
+  <!--<img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="36" alt="flask logo"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="36" alt="flask logo"  /> !-->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="postgresql logo"  />
   <img width="12" />
