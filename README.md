@@ -16,13 +16,13 @@
 <div align="center">
   <p>Currently at a tech startup, I'm focused on building the backend for a SaaS platform used by frontend teams, tackling system design challenges, and standardizing software patterns to make their work easier.</p>
   <a href="https://www.linkedin.com/in/siqgustavo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=ffff&style=for-the-badge" height="20" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=ffff&style=for-the-badge" height="22" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/_instableshiy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="twitter logo"  />
   </a>
   <a href="mailto:siqgustavo2@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="gmail logo"  />
   </a>
 </div>
   
