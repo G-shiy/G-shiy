@@ -19,11 +19,17 @@
 
 <p align="left">Hi, I'm Gustavo, a Backend Developer from São José dos Campos, Brazil. I specialize in Go, Java, and making code behave itself (most of the time).</p>
 
-<p>• 🔭 Currently at a tech startup, building the backend for a SaaS platform used by frontend teams, solving system design challenges and standardizing software patterns to make their lives easier.</p>
+<p>• 🔭 Currently at a tech startup, building the backend for a SaaS platform used by frontend teams. I focus on system design challenges and standardizing software patterns to make their work easier.</p>
 
-<p>• ⚡ Outside of work, I enjoy a good cup of coffee to fuel my day, reading books on economics, philosophy, theology, and programming , exploring new tools and frameworks, diving into software architecture, and continuously improving my skills in backend best practices.</p> 
+<p>• ⚡ Outside of work, I enjoy:</p>
+<ul>
+  <li>☕ A good cup of coffee to fuel my day</li>
+  <li>📚 Reading books on economics, philosophy, theology, and programming</li>
+  <li>🛠 Exploring new tools and frameworks</li>
+  <li>🏗 Diving into software architecture and backend best practices</li>
+</ul>
 
-<p>• 🌱 Always learning! I'm constantly experimenting with new backend technologies, sharpening my skills in Go, Java, SQL/NoSQL, and applying them to personal projects.</p>
+<p>• 🌱 Always learning! I experiment with new backend technologies, sharpening my skills in Go, Java, SQL/NoSQL, and applying them to personal projects.</p>
 
 <h2 align="left">🛠 Techs</h2>
 
@@ -53,7 +59,7 @@
 
 ###
 
-<h3 align="left">📬 Reach Me</h3>
+<h2 align="left">📬 Reach Me</h2>
 
 <p align="left">Happy to chat about technology, backend development, tech stacks, or interesting projects you’re working on (doesn’t have to be super interesting or innovative, just hit me up).</p>
   <a href="https://www.linkedin.com/in/siqgustavo/" target="_blank">
