@@ -18,7 +18,24 @@
 
 ###
 
-<div align="center">
+<h2 align="left">🌙  About Me</h2>
+
+###
+
+###
+
+
+<p align="left">Hi, I'm Gustavo, a Backend Developer from São José dos Campos, Brazil. I specialize in Go, Java, and .</p>
+
+<p>• 🔭 Currently working in the financial sector, where I develop solutions to automate payment reconciliations, credit card processing, and banking transaction workflows.</p>
+
+<p>• ⚡ Outside of work, I enjoy tackling coding challenges, exploring new tools and frameworks, and diving into software architecture, performance optimization, and backend best practices.</p>
+
+<p>• 🌱 Always learning! I'm constantly experimenting with new backend technologies, sharpening my skills in Go, Java, SQL/NoSQL, and applying them to personal projects.</p>
+
+<h3 align="left">📬 Reach Me</h3>
+
+<p align="left">Happy to chat about technology, backend development, tech stacks, or interesting projects you’re working on (doesn’t have to be super interesting or innovative, just hit me up, hehe).</p>
   <a href="https://www.linkedin.com/in/siqgustavo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=ffff&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -28,31 +45,6 @@
   <a href="mailto:siqgustavo2@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-
-###
-
-<h2 align="left">🌙  About Me</h2>
-
-###
-
-###
-
-
-<p align="left">Hi, I'm Gustavo — a 20-year-old Java developer from São José dos Campos, Brazil.</p>
-
-<p>• 🔭 Currently working in the financial sector, where I develop solutions to automate payment reconciliations, credit card processing, and banking transaction workflows.</p>
-
-<p>• ⚡ In my free time, I enjoy solving coding challenges, testing developer tools, and diving deep into topics like software scalability, data structures, and performance optimization.</p>
-
-<p>• 🌱 Passionate about continuous learning, I'm constantly exploring new technologies to sharpen my backend skills and applying that knowledge to personal projects.</p>
-
-<h3 align="left">📬 Reach Me</h3>
-
-<p align="left">I'm always open to conversations about backend development, tech stacks, and new opportunities.</p>
 
 
 <h2 align="left">🛠 Techs</h2>
