@@ -25,9 +25,9 @@
 ###
 
 
-<p align="left">Hi, I'm Gustavo, a Backend Developer from São José dos Campos, Brazil. I specialize in Go, Java, and .</p>
+<p align="left">Hi, I'm Gustavo, a Backend Developer from São José dos Campos, Brazil. I specialize in Go, Java, and making code behave itself (most of the time).</p>
 
-<p>• 🔭 Currently working in the financial sector, where I develop solutions to automate payment reconciliations, credit card processing, and banking transaction workflows.</p>
+<p>• 🔭 Currently at a tech startup, working on a SaaS platform for frontend teams, solving complex backend system design challenges and standardizing software patterns to make the frontend experience smoother.</p>
 
 <p>• ⚡ Outside of work, I enjoy tackling coding challenges, exploring new tools and frameworks, and diving into software architecture, performance optimization, and backend best practices.</p>
 
