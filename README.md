@@ -7,9 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=32&center=true&vCenter=true&width=1000&lines=Crafting+code+with+curiosity,+caffeine+and+faith+☕🐹)](https://git.io/typing-svg)
 <br><br>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=G-shiy.G-shiy&"  />
-</div>
 
 ###
 
@@ -24,7 +21,7 @@
 
 <p>• 🔭 Currently at a tech startup, building the backend for a SaaS platform used by frontend teams, solving system design challenges and standardizing software patterns to make their lives easier.</p>
 
-<p>• ⚡ Outside of work, I enjoy tackling coding challenges, exploring new tools and frameworks, and diving into software architecture, performance optimization, and backend best practices.</p>
+<p>• ⚡ Outside of work, I enjoy a good cup of coffee to fuel my day, reading books on economics, philosophy, theology, and programming , exploring new tools and frameworks, diving into software architecture, and continuously improving my skills in backend best practices.</p> 
 
 <p>• 🌱 Always learning! I'm constantly experimenting with new backend technologies, sharpening my skills in Go, Java, SQL/NoSQL, and applying them to personal projects.</p>
 
@@ -102,4 +99,7 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=G-shiy.G-shiy&"  />
+</div>
 
