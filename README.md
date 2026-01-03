@@ -41,8 +41,8 @@
 
 ---
 
-<h3 align="left">💻 Main Tech Stack</h3>
-
+<!--<h3 align="left">💻 Techno</h3> -->
+<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
 ###
 
 <div align="left">
