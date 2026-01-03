@@ -4,103 +4,73 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey+there,+welcome+to+my+space!+👋+:%29)](https://git.io/typing-svg) 
 !-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=32&center=true&vCenter=true&width=1200&lines=Crafting+code+with+curiosity,+caffeine+and+faith+☕🐹)](https://git.io/typing-svg)
-<br><br>
-
-<h1 align="center">Hi, I'm Gustavo H. Siqueira</h1> 
-<p align="center"><em>Backend Developer • Go and Java Developer • making code behave itself (most of the time).</em></p>
-
-
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8a85ab&size=32&center=true&vCenter=true&width=1200&lines=Crafting+code+with+curiosity,+caffeine+and+faith+☕🐹)](https://git.io/typing-svg)
 
 <div align="center">
-  <p>Currently at a tech startup, I'm focused on building the backend for a SaaS platform used by frontend teams, tackling system design challenges, and standardizing software patterns to make their work easier.</p>
   <a href="https://www.linkedin.com/in/siqgustavo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=ffff&style=for-the-badge" height="22" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/_instableshiy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="twitter logo"  />
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:siqgustavo2@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="gmail logo"  />
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-  
----
 
-### 🌙 About Me
+<br/>
 
-- 🔭 Software Engineer  
-- 💰 Finance Enthusiast  
-- ☕ Enjoy a good cup of coffee to fuel my day  
-- 📚 Reading books on economics, philosophy, theology, and programming  
-- 🛠 Exploring new tools and frameworks  
-- 🏗 Diving into software architecture and backend best practices  
-- 🌱 Always learning: experimenting with new backend technologies, sharpening my skills, and applying them to personal projects
+<h2 align="center">
+  <img src="/imgs/title1.png" width="25"/> <em> About me </em>
+</h2>
 
+<img
+  src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif"
+  width="250"
+  align="right"
+  style="margin-left: 20px;" />
 
----
+<br/>
 
-<!--<h3 align="left">💻 Techno</h3> -->
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
-###
+<p>
+  Hello there! <em><b>I'm Gustavo H. Siqueira</b></em>, a backend developer currently working at a tech startup.
+  I focus on building backend systems for SaaS platforms used by frontend teams, dealing with system design
+  challenges and standardizing software patterns to make development more predictable and scalable.
+</p>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=go" height="36" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="36" alt="spring logo"  />
-  <img width="12" />
-  <!--<img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="36" alt="flask logo"  />
-  <img width="12" /> !-->
-  <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="36" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="36" alt="linux logo"  />
-</div>
+<br/>
+
+<p align="center">
+  📚 <em><b>Economics, philosophy, theology & programming</b></em><br/>
+  🏗 <em><b>Backend architecture & best practices</b></em><br/>
+  ☕ <em><b>Coffee-driven problem solver</b></em><br/>
+  💰 <em><b>Finance Enthusiast</b></em><br/>
+  🔭 <em><b>Software Engineer</b></em><br/>
+</p>
+
+<br/>
+<br/>
 
 ###
+<h2 align="center">
+  <img src="/imgs/title2.png" width="25"/> <em> Technologies </em>
+</h2>
 
-  <!--<h2 align="left">📬 Reach Me</h2>
-
-<p align="left">Happy to chat about technology, backend development, tech stacks, or interesting projects you’re working on (doesn’t have to be super interesting or innovative, just hit me up).</p>
-
-  
-###
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
 
 ###
 
-<h2 align="left">🔥   My Stats :</h2>
+  <!--
 
-###
-
-
-
-
-<div align="center">
-<div>
-  <a href="https://github.com/G-shiy">
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=G-shiy&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-shiy&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-</div>
-</div>
-
-<div align="center"> 
- 
-  ![snake gif](https://github.com/G-shiy/G-shiy/blob/output/github-snake-dark.svg)
- 
-</div>
+<div align="center"> ![snake gif](https://github.com/G-shiy/G-shiy/blob/output/github-snake-dark.svg)</div>
 !-->
 
 ###
