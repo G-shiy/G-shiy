@@ -16,7 +16,7 @@
 <br/>
 
 <h2 align="center">
-  <img src="/imgs/bh.svg" width="25"/> <em> About me </em>
+  <img src="/imgs/black-hole.svg" width="25"/> <em> About me </em>
 </h2>
 
 <img
