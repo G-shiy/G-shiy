@@ -21,7 +21,7 @@
 <br/>
 
 <h2 align="center">
-  <img src="/imgs/title1.png" width="25"/> <em> About me </em>
+  <img src="/imgs/lambda.svg" width="25"/> <em> About me </em>
 </h2>
 
 <img
