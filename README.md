@@ -1,9 +1,3 @@
-
-
-###
-
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey+there,+welcome+to+my+space!+👋+:%29)](https://git.io/typing-svg) 
-!-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8a85ab&size=32&center=true&vCenter=true&width=1200&lines=Crafting+code+with+curiosity,+caffeine+and+faith+☕🐹)](https://git.io/typing-svg)
 
 <div align="center">
