@@ -1,6 +1,30 @@
 ###
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8a85ab&size=32&center=true&vCenter=true&width=1200&lines=Crafting+code+with+curiosity,+caffeine+and+faith+☕🐹)](https://git.io/typing-svg)
 
+<br/>
+
+<h2 align="center">
+<em> About me </em>
+</h2>
+
+<img
+  src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif"
+  width="250"
+  align="right" />
+
+<p>
+  Hello there! <em><b>I'm Gustavo </b></em>, a backend developer currently working at a tech startup.
+  I focus on building backend systems for SaaS platforms used by frontend teams, dealing with system design
+  challenges and standardizing software patterns to make development more predictable and scalable.
+</p>
+
+<p align="center">
+  📚 <em><b>Economics, philosophy, theology & programming</b></em><br/>
+  🏗 <em><b>Backend architecture & best practices</b></em><br/>
+  ☕ <em><b>Coffee-driven problem solver</b></em><br/>
+  💰 <em><b>Finance Enthusiast</b></em><br/>
+  🔭 <em><b>Software Engineer</b></em><br/>
+</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/siqgustavo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -13,35 +37,6 @@
   </a>
 </div>
 
-<br/>
-
-<h2 align="center">
-  <img src="/imgs/black-hole.svg" width="25"/> <em> About me </em>
-</h2>
-
-<img
-  src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif"
-  width="250"
-  align="right"
-  style="margin-left: 20px;" />
-
-<br/>
-
-<p>
-  Hello there! <em><b>I'm Gustavo H. Siqueira</b></em>, a backend developer currently working at a tech startup.
-  I focus on building backend systems for SaaS platforms used by frontend teams, dealing with system design
-  challenges and standardizing software patterns to make development more predictable and scalable.
-</p>
-
-<br/>
-
-<p align="center">
-  📚 <em><b>Economics, philosophy, theology & programming</b></em><br/>
-  🏗 <em><b>Backend architecture & best practices</b></em><br/>
-  ☕ <em><b>Coffee-driven problem solver</b></em><br/>
-  💰 <em><b>Finance Enthusiast</b></em><br/>
-  🔭 <em><b>Software Engineer</b></em><br/>
-</p>
 
 <br/>
 <br/>
