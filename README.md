@@ -20,11 +20,12 @@
 
 
 <p align="center">
-  🔭 <em><b>Software Engineer at <a href="https://github.com/curvatechx">@Curva</a></b></em><br/>
   🎓 <em><b>Studying Systems Analysis and Development & Computer Engineering</b></em><br/>
   📊 <em><b>Metrics, monitoring & system reliability</b></em><br/>
   📚 <em><b>Economics, philosophy & theology</b></em><br/>
   ☕ <em><b>Coffee-driven problem solver</b></em><br/>
+ 🔭 <em><b>Software Engineer at <a href="https://github.com/curvatechx">@Curva</a></b></em><br/>
+
 </p>
 
 <div align="center">
