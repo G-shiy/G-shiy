@@ -10,7 +10,7 @@
 <em> About me </em>
 </h2>
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="260" align="right" style="margin-left: 20px;" />
 
 <p>
   Hello there! <em><b>I'm Gustavo </b></em>, a backend developer currently working at a tech startup.
@@ -18,13 +18,15 @@
   challenges and standardizing software patterns to make development more predictable and scalable.
 </p>
 
+
 <p align="center">
-  📚 <em><b>Economics, philosophy, theology & programming</b></em><br/>
-  🏗 <em><b>Backend architecture & best practices</b></em><br/>
+  🔭 <em><b>Software Engineer at <a href="https://github.com/curvatechx">@Curva</a></b></em><br/>
+  🎓 <em><b>Studying Systems Analysis and Development & Computer Engineering</b></em><br/>
+  📊 <em><b>Metrics, monitoring & system reliability</b></em><br/>
+  📚 <em><b>Economics, philosophy & theology</b></em><br/>
   ☕ <em><b>Coffee-driven problem solver</b></em><br/>
-  💰 <em><b>Finance Enthusiast</b></em><br/>
-  🔭 <em><b>Software Engineer</b></em><br/>
 </p>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/siqgustavo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
