@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8a85ab&size=32&center=true&vCenter=true&width=1200&lines=Crafting+code+with+curiosity,+caffeine+and+faith+☕🐹)](https://git.io/typing-svg)
 <br/>
 
-<img src="imgs/banner2.jpg" width="100%" height="450px" />
+<img src="imgs/banner2.jpg" width="100%" />
 
 <br/>
 
@@ -11,10 +11,7 @@
 <em> About me </em>
 </h2>
 
-<img
-  src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif"
-  width="250"
-  align="right" />
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
 
 <p>
   Hello there! <em><b>I'm Gustavo </b></em>, a backend developer currently working at a tech startup.
