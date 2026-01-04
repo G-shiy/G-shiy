@@ -47,23 +47,37 @@
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
 </p>
-
-###
 
   <!--
 
 <div align="center"> ![snake gif](https://github.com/G-shiy/G-shiy/blob/output/github-snake-dark.svg)</div>
 !-->
 
-###
+
+<br/>
+<br/>
+
+<h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
+
+<div align = "center"> 
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=G-Shiy&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+
+</div>
 
 <p align="center">
 <em>"Your word is a lamp to my feet and a light to my path."</em> – Salms 119:105
