@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8a85ab&size=32&center=true&vCenter=true&width=1200&lines=Crafting+code+with+curiosity,+caffeine+and+faith+☕🐹)](https://git.io/typing-svg)
 <br/>
 
-<img src="imgs/banner.jpg" width="100%" />
+<img src="imgs/banner2.jpg" width="100%" height="450px" />
 
 <br/>
 
