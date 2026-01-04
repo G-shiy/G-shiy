@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8a85ab&size=32&center=true&vCenter=true&width=1200&lines=Crafting+code+with+curiosity,+caffeine+and+faith+☕🐹)](https://git.io/typing-svg)
 
+
 <br/>
 <img src="imgs/banner.png" width="100%"/>
 <br/>
@@ -71,10 +72,29 @@
 
 <br/>
 
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel. app/api/cards/profile-details?username=G-shiy&theme=github_dark" width="100%"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel. app/api/cards/stats?username=G-shiy&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel. app/api/cards/most-commit-language?username=G-shiy&theme=github_dark"/>
+</p>
+
+
+
+
+
+
 <h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 
 <div align = "center"> 
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=G-shiy&show_icons=true&theme=dark&bg_color=000000&hide_border=true&title_color=8a85ab&icon_color=8a85ab&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel. app/api/top-langs/? username=G-shiy&layout=compact&theme=dark&bg_color=000000&hide_border=true&title_color=8a85ab&text_color=ffffff"/>
+</p>
+  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=G-Shiy&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
