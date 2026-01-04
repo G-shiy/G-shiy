@@ -1,7 +1,6 @@
 ###
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8a85ab&size=32&center=true&vCenter=true&width=1200&lines=Crafting+code+with+curiosity,+caffeine+and+faith+☕🐹)](https://git.io/typing-svg)
-
 <br/>
 
 <h2 align="center">
