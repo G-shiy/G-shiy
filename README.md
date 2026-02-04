@@ -25,7 +25,7 @@
   📊 <em><b>Metrics, monitoring & system reliability</b></em><br/>
   📚 <em><b>Economics, philosophy & theology</b></em><br/>
   ☕ <em><b>Coffee-driven problem solver</b></em><br/>
- 🔭 <em><b>Software Engineer at <a href="https://github.com/curvatechx">@Curva</a></b></em><br/>
+  🔭 <em><b>Software Engineer | Freelance — Crediclass(currently)</b></em><br/>
 
 </p>
 
@@ -62,6 +62,7 @@
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Svelte-000000?style=for-the-badge&logo=svelte&logoColor=white" />
 </p>
 
   <!--
