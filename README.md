@@ -19,6 +19,10 @@
   challenges and standardizing software patterns to make development more predictable and scalable.
 </p>
 
+<p>
+  Hello there! <em><b>I'm Gustavo </b></em>, a backend developer currently providing full-stack services for Crediclass.
+  I build robust backend systems, implement secure APIs, and develop modern frontends with a focus on performance and maintainability.
+</p>
 
 <p align="center">
   🎓 <em><b>Studying Systems Analysis and Development & Computer Engineering</b></em><br/>
