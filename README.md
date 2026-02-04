@@ -14,12 +14,6 @@
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" />
 
 <p>
-  Hello there! <em><b>I'm Gustavo </b></em>, a backend developer currently working at a tech startup.
-  I focus on building backend systems for SaaS platforms used by frontend teams, dealing with system design
-  challenges and standardizing software patterns to make development more predictable and scalable.
-</p>
-
-<p>
   Hello there! <em><b>I'm Gustavo </b></em>, a backend developer currently providing full-stack services for Crediclass.
   I build robust backend systems, implement secure APIs, and develop modern frontends with a focus on performance and maintainability.
 </p>
