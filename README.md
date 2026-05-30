@@ -4,7 +4,7 @@
 
 
 <br/>
-<img src="imgs/banner.png" width="100%"/>
+<img src="imgs/banner2.jpg" width="100%"/>
 <br/>
 
 <h2 align="center">
