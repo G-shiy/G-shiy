@@ -86,7 +86,7 @@
 </div>
 
 <p align="center">
-<em>"Your word is a lamp to my feet and a light to my path."</em> – Salms 119:105
+<em>"Your word is a lamp to my feet and a light to my path."</em> – Psalms 119:105
 </p>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=G-shiy.G-shiy&"  />
