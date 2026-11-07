@@ -79,9 +79,11 @@
 
 <div align = "center"> 
 
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=G-Shiy&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
-
+  <img
+  src="https://raw.githubusercontent.com/G-Shiy/G-Shiy/activity-assets/activity-90d.svg"
+  alt="GitHub Activity"
+  width="100%"
+/>
 
 </div>
 
