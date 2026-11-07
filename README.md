@@ -87,6 +87,10 @@
 
 </div>
 
+## Contribution Activity
+
+![GitHub Snake](https://raw.githubusercontent.com/G-Shiy/G-Shiy/output/github-snake-dark.svg)
+
 <p align="center">
 <em>"Your word is a lamp to my feet and a light to my path."</em> – Psalms 119:105
 </p>
