@@ -1,49 +1,49 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "f2205a1765fc5dc6e3b7176e0b764872cd46599eab58efbcc0304f3015def77d",
+  "snapshotId": "255e3f71f716994bac058a73fe40a56f74a8386e7467ff2d017a369485bab728",
   "publicDataPolicy": "daily-aggregates-only-v1",
-  "generatedAt": "2026-11-21T04:13:58.967Z",
+  "generatedAt": "2026-11-22T00:16:38.463Z",
   "source": "github",
   "username": "G-shiy",
   "sourceCommit": "e98c996e8973cb4e5cec3907493029e7dd5d7e0a",
-  "workflowRun": "44865063161",
+  "workflowRun": "44965817705",
   "calendarDays": 365,
-  "rangeStart": "2025-11-22",
-  "rangeEnd": "2026-11-21",
+  "rangeStart": "2025-11-23",
+  "rangeEnd": "2026-11-22",
   "currentDayPartial": true,
   "ranges": {
     "30": {
-      "total": 34,
-      "startDate": "2026-10-23",
-      "endDate": "2026-11-21"
+      "total": 32,
+      "startDate": "2026-10-24",
+      "endDate": "2026-11-22"
     },
     "90": {
-      "total": 168,
-      "startDate": "2026-08-24",
-      "endDate": "2026-11-21"
+      "total": 166,
+      "startDate": "2026-08-25",
+      "endDate": "2026-11-22"
     },
     "365": {
       "total": 1877,
-      "startDate": "2025-11-22",
-      "endDate": "2026-11-21"
+      "startDate": "2025-11-23",
+      "endDate": "2026-11-22"
     }
   },
   "assets": {
     "index.html": {
-      "bytes": 42968,
-      "sha256": "aec0460dc2b6fe16a8105459bc024a0affcf351766db0939bde20f5c74673cd6"
+      "bytes": 42966,
+      "sha256": "20c1138cfeec38470557d1f8178a5380a849e8591aa44cbac6d7d1e6b5434814"
     },
     "activity-30d.svg": {
-      "bytes": 5963,
-      "sha256": "590ef8b96c152ef12cafdb8d765e14ffe47dc8eea5a7e1c3dd152f12c850ab57"
+      "bytes": 5845,
+      "sha256": "9abf6619f47c60ff3e0ff60cee69c4a6fc57b512fa0762dbdca8cc34b8421053"
     },
     "activity-90d.svg": {
-      "bytes": 14140,
-      "sha256": "2e221ac30f0794dc3d19789d83347a3115edf82cb4853561e41eca65c338d02d"
+      "bytes": 14018,
+      "sha256": "b3305ed351143c1dbfec44a6b8c74b831cf764f575cde47c8badbf8e77cd64ff"
     },
     "activity-365d.svg": {
-      "bytes": 55264,
-      "sha256": "282b1347cf24ef83aa036d868705eb637105e8c041ed23e94fb9efa466c012a0"
+      "bytes": 55261,
+      "sha256": "a813302d5f142f924d1be3a1020cd97752b213cee772b98475490d96d1db4d93"
     }
   }
 }
